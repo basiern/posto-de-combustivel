@@ -2,7 +2,7 @@ _Exercícios da II Unidade - Preços e descontos em posto de combustível_
 
 # EXERCÍCIOS ESTRUTURAS DE REPETIÇÃO
 
-## 📝 WHILE
+## 📝 DO-WHILE
 
 🔸Crie um código de posto de combustível que tenha como entrada a possibilidade de escolher Alcool (Digitando a letra 'A'), escolher Gasolina (digitando a letra 'G') ou que saia do programa (Digitando a letra 'S').
 
